@@ -3,7 +3,7 @@
 
 This project is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
-## [Microsoft Orleans v2.x](https://github.com/lmagyar/Presentations/raw/master/Presentations/Microsoft%20Orleans.pptx)
+## [Microsoft Orleans v2.0](https://github.com/lmagyar/Presentations/raw/master/Presentations/Microsoft%20Orleans.pptx)
 **A comprehensive guide for beginners and experts alike**
 
 repo: https://github.com/dotnet/orleans
@@ -19,7 +19,7 @@ This is an infodeck (~150 slides, and counting), a combined presentation/cheatsh
 > - Hosting
 > - Deployment
 
-## [Orleans.Activities v1.x](https://github.com/lmagyar/Presentations/raw/master/Presentations/Orleans.Activities.pptx)
+## [Orleans.Activities v1.0](https://github.com/lmagyar/Presentations/raw/master/Presentations/Orleans.Activities.pptx)
 **Workflow Foundation on Microsoft Orleans - Long lived transactions on cloud level**
 
 repo: https://github.com/OrleansContrib/Orleans.Activities
