@@ -10,8 +10,6 @@ repo: https://github.com/dotnet/orleans
 
 This is an infodeck (~150 slides, and counting), a combined presentation/cheatsheet/tutorial, depending on how many slide do you hide.
 
-> Note: will be updated when Orleans v2.0 finally released and the functionality is stabilized.
->
 > :construction: *The following chapters are still under construction:* :construction:
 > - Dependency injection :soon:
 > - Telemetry :soon:
